@@ -1,7 +1,8 @@
 # KFMC-Training
 
 This project was during my King Fahad Medical City (KFMC) Summer Coop Training
-The project aims to help instructors/trainers to manage their trainees' information and evaluation through specific criteria
+The project aims to help instructors/trainers to manage their trainees' information and evaluation through specific criteria.
+
 
 # 1- About Page:
 This page is an informative page to help instructors/trainers get started
@@ -22,3 +23,11 @@ This page is designed for customer support. If any technical issues occur during
 This page is designed to help instructors to evaluate their trainees' easily through specified criteria 
 
 [Training Student Image](https://github.com/xAseelx/KFMC-Training/blob/main/Training-Student.png)
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools Used in this Project⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,visualstudio,dotnet" />
+  <br>
+    <img src="https://skillicons.dev/icons?i=html,css,mysql,cs" />
+</div>
