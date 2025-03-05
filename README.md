@@ -13,22 +13,22 @@ The project aims to help instructors/trainers to manage their trainees' informat
 </div>
 
 
-# 1- About Page:
+<h2 align="center"> 1- About Page: </h2>
 This page is an informative page to help instructors/trainers get started
 
 ![About Page](https://github.com/xAseelx/KFMC-Training/blob/main/About-Page.png)
 
-# 2- Phone Directory Page:
+<h2 align="center"> 2- Phone Directory Page: </h2>
 This page helps instructors to manage their trainees' information through performing CRUD operation
 
 ![Phone Directory](https://github.com/xAseelx/KFMC-Training/blob/main/Phone-Directory.png)
 
-# 3-SendEmail Page:
+<h2 align="center"> 3-SendEmail Page: </h2>
 This page is designed for customer support. If any technical issues occur during the user's interaction, they can email us to report them.
 
 ![Send Email](https://github.com/xAseelx/KFMC-Training/blob/main/Send-Email.png)
 
-# 4- Students training criteria page:
+<h2 align="center"> 4- Students training criteria page:  </h2>
 This page is designed to help instructors to evaluate their trainees' easily through specified criteria 
 
 [Training Student Image](https://github.com/xAseelx/KFMC-Training/blob/main/Training-Student.png)
